@@ -1,0 +1,12 @@
+{
+  "name": "typeorm-test",
+  "version": "1.0.0",
+  "description": "Bugs on TypeORM when using function for default",
+  "main": "index.js",
+  "author": "Farly FD",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^7.4.1",
+    "typeorm": "^0.1.16"
+  }
+}
